@@ -1,6 +1,12 @@
 deepdish changelog
 ==================
 
+0.3.6
+------
+Released: TBD
+
+* Removed ``pd.Panel`` support (deprecated)
+
 0.3.5
 ------
 Released: TBD

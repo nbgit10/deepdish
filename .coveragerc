@@ -10,3 +10,4 @@ omit =
     *__init__*
     deepdish/tests/*
     deepdish/six.py
+    venv/*

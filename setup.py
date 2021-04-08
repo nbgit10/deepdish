@@ -17,15 +17,13 @@ CLASSIFIERS = [
     'License :: OSI Approved :: BSD License',
     'Programming Language :: Python',
     'Programming Language :: Python :: 2',
-    'Programming Language :: Python :: 2.7',
     'Programming Language :: Python :: 3',
-    'Programming Language :: Python :: 3.4',
     'Topic :: Scientific/Engineering',
 ]
 
 args = dict(
     name='deepdish',
-    version='0.3.4',
+    version='0.3.6',
     url="https://github.com/uchicago-cs/deepdish",
     description="Deep Learning experiments from University of Chicago.",
     maintainer='Gustav Larsson',
