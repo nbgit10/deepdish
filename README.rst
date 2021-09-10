@@ -1,3 +1,5 @@
+### We had forked this from the original deepdish because of an issue arising with a new pandas version. This has still not been fixed we believe but instead we now use the flammkuchen package. Therefore, archiving this fork.
+
 .. image:: https://readthedocs.org/projects/deepdish/badge/?version=latest
     :target: https://readthedocs.org/projects/deepdish/?badge=latest
     :alt: Documentation Status
@@ -15,7 +17,7 @@
     :target: http://opensource.org/licenses/BSD-3-Clause 
 
 deepdish
-========
+========+
 
 Flexible HDF5 saving/loading and other data science tools from the University of Chicago. This repository also host a Deep Learning blog:
 
